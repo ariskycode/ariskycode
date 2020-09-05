@@ -64,7 +64,7 @@
 </p>
 
 
-### &#x1F4ED; Get in touch
+## &#x1F4ED; Get in touch
 <p align="center">
     <a href="https://linkedin.com/in/arahims" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arahims" height="40" width="40" /></a>
     <a href="https://twitter.com/ariskycode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ariskycode" height="40" width="40"/></a>
